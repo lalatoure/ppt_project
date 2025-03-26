@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let us do python coding
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10,3 +11,6 @@ do you like python?
 do you like python?
 i like python
 >>>>>>> jihyeong
+=======
+wow python is so esciting
+>>>>>>> junseo
