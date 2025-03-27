@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import re  # 정규 표현식 사용
 
 # 로그인 함수
@@ -90,3 +91,6 @@ def main():
 
 # 실행
 main()
+=======
+#okay
+>>>>>>> junseo
