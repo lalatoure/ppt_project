@@ -68,7 +68,11 @@ def findidpassword(regist_user):
     if uid in regist_user:      #저장된 아이디가 맞다면
       print("아이디 인증됨")      #아이디 인증됨을 출력
       while True:
+<<<<<<< HEAD
        x = int(input("비밀번호 변경1 비밀번호 두자리확인 2  돌아가기는 3 을 입력해주세요"))  #메뉴선택
+=======
+       x = int(input("1 : 비밀번호 변경  2 : 비밀번호 두자리확인  3:  돌아가기를 입력해주세요  입력 : "))  #메뉴선택
+>>>>>>> d2a9ff7 (change)
        if(x==1):
             oldpw = input("기존 비밀번호를 입력하세요 : ") #oldpw에 기존 비밀번호 입력
             if ( oldpw == regist_user[uid]):          #딕셔너리안 아이디(key) 에 매칭되는 비밀번호(Value) 가 기존비밀번호와 같다면
